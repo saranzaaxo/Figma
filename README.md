@@ -483,15 +483,13 @@ Figma
 ```
 
 ## OUTPUT:
+<img width="434" height="669" alt="1" src="https://github.com/user-attachments/assets/538fd898-f829-46b5-b983-ec6db35313f0" />
 
-![alt text](../vijay/figmaapp/static/1.png)
+<img width="382" height="645" alt="2" src="https://github.com/user-attachments/assets/4df67a98-05bb-4ec5-b1df-2a2ee1cb11ed" />
 
-![alt text](../vijay/figmaapp/static/2.png)
+<img width="384" height="662" alt="3" src="https://github.com/user-attachments/assets/368fedf5-7412-41ce-8f81-0b23ea2a758d" />
 
-![alt text](../vijay/figmaapp/static/3.png)
-
-![alt text](../vijay/figmaapp/static/4.png)
-
+<img width="391" height="666" alt="4" src="https://github.com/user-attachments/assets/c84855d5-f2da-4176-819c-a45f1eea8fca" />
 
 
 ## RESULT:
